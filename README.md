@@ -29,7 +29,7 @@ Step 4th. Extract the file and copy “cashiering”
 
 ” folder
 
-Step 5th. Paste inside root directory/ where you install xampp local disk C: drive D: drive E: paste: for xampp/htdocs,
+Step 5th. Paste inside root directory/ where you install xampp local disk C: paste: for xampp/htdocs,
 
 Step 6th. Open your XAMPP and start Apache & MySQL 
 
