@@ -40,8 +40,8 @@ Step 8th. Create a database "onlinekenabecha"
 Step 9th. Import all database tables from project folder: database-table (onlinekenabecha)
 name of the table files: ad_post.sql, admin.sql, message.sql, report_ad.sql, user.sql, image.sql
 
-Step 10th. Run the script http://localhost/onlinekenabecha/onlinekenabecha.php
-
+Step 10th. Run the script: http://localhost/php-online-kenabecha/onlinekenabecha.php
+Run admin: http://localhost/php-online-kenabecha/admin/ok-login.php
 
 
 System Images
